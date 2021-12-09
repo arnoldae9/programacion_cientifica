@@ -1,0 +1,480 @@
+Anio,Cveestado,Nomestado,Cveespecie,Nomespecie,Cveproducto,Nomproducto,Volumen,Peso,Precio,Valor,Asacrificado
+1990,1,Aguascalientes,1,Abeja,2,Cera,12.000,0.000,7.33,88.000,0
+1990,1,Aguascalientes,1,Abeja,7,Miel,226.000,0.000,5.96,1346.960,0
+1990,1,Aguascalientes,3,Ave     ,1,Carne,19244.000,0.000,5.95,114540.290,0
+1990,1,Aguascalientes,3,Ave     ,4,Huevo-plato,4533.000,0.000,2.54,11527.420,0
+1990,1,Aguascalientes,3,Ave     ,8,Ganado en pie,22853.000,0.000,3.51,80282.590,0
+1990,1,Aguascalientes,4,Bovino,1,Carne,7185.000,0.000,7.13,51236.240,0
+1990,1,Aguascalientes,4,Bovino,3,Ganado en pie,13192.000,0.000,3.36,44259.160,0
+1990,1,Aguascalientes,4,Bovino,6,Leche,183106.000,0.000,1.06,193909.250,0
+1990,1,Aguascalientes,6,Caprino,1,Carne,449.000,0.000,9.48,4257.870,0
+1990,1,Aguascalientes,6,Caprino,3,Ganado en pie,960.000,0.000,3.52,3381.120,0
+1990,1,Aguascalientes,12,Ovino,1,Carne,349.000,0.000,9.53,3325.970,0
+1990,1,Aguascalientes,12,Ovino,3,Ganado en pie,840.000,0.000,4.00,3363.360,0
+1990,1,Aguascalientes,12,Ovino,5,Lana,48.000,0.000,6.00,288.000,0
+1990,1,Aguascalientes,14,Porcino,1,Carne,4492.000,0.000,6.50,29198.000,0
+1990,1,Aguascalientes,14,Porcino,3,Ganado en pie,6392.000,0.000,3.74,23925.260,0
+1990,2,Baja California,1,Abeja,7,Miel,139.000,0.000,6.17,856.940,0
+1990,2,Baja California,3,Ave     ,1,Carne,2730.000,0.000,5.24,14294.280,0
+1990,2,Baja California,3,Ave     ,4,Huevo-plato,14201.000,0.000,2.75,39109.550,0
+1990,2,Baja California,3,Ave     ,8,Ganado en pie,3412.000,0.000,4.06,13862.960,0
+1990,2,Baja California,4,Bovino,1,Carne,44510.000,0.000,8.10,360620.020,0
+1990,2,Baja California,4,Bovino,3,Ganado en pie,81328.000,0.000,3.83,311160.930,0
+1990,2,Baja California,4,Bovino,6,Leche,171817.000,0.000,1.16,199994.990,0
+1990,2,Baja California,6,Caprino,1,Carne,382.000,0.000,10.17,3886.090,0
+1990,2,Baja California,6,Caprino,3,Ganado en pie,900.000,0.000,4.49,4042.800,0
+1990,2,Baja California,12,Ovino,1,Carne,45.000,0.000,10.09,454.010,0
+1990,2,Baja California,12,Ovino,3,Ganado en pie,114.000,0.000,4.87,554.950,0
+1990,2,Baja California,14,Porcino,1,Carne,6343.000,0.000,5.46,34620.090,0
+1990,2,Baja California,14,Porcino,3,Ganado en pie,8930.000,0.000,2.92,26084.530,0
+1990,3,Baja California Sur,1,Abeja,7,Miel,103.000,0.000,5.84,601.010,0
+1990,3,Baja California Sur,3,Ave     ,1,Carne,1916.000,0.000,5.49,10511.180,0
+1990,3,Baja California Sur,3,Ave     ,4,Huevo-plato,3310.000,0.000,2.41,7983.720,0
+1990,3,Baja California Sur,3,Ave     ,8,Ganado en pie,2394.000,0.000,4.42,10581.480,0
+1990,3,Baja California Sur,4,Bovino,1,Carne,3898.000,0.000,7.57,29507.860,0
+1990,3,Baja California Sur,4,Bovino,3,Ganado en pie,7040.000,0.000,3.29,23175.680,0
+1990,3,Baja California Sur,4,Bovino,6,Leche,14970.000,0.000,1.17,17455.020,0
+1990,3,Baja California Sur,6,Caprino,1,Carne,311.000,0.000,10.64,3308.110,0
+1990,3,Baja California Sur,6,Caprino,3,Ganado en pie,770.000,0.000,3.73,2871.330,0
+1990,3,Baja California Sur,6,Caprino,6,Leche,2577.000,0.000,1.10,2826.970,0
+1990,3,Baja California Sur,12,Ovino,1,Carne,47.000,0.000,10.66,501.020,0
+1990,3,Baja California Sur,12,Ovino,3,Ganado en pie,120.000,0.000,4.88,585.000,0
+1990,3,Baja California Sur,14,Porcino,1,Carne,1134.000,0.000,5.50,6237.000,0
+1990,3,Baja California Sur,14,Porcino,3,Ganado en pie,1564.000,0.000,3.42,5344.190,0
+1990,4,Campeche,1,Abeja,2,Cera,98.000,0.000,7.29,714.030,0
+1990,4,Campeche,1,Abeja,7,Miel,8450.000,0.000,5.58,47167.900,0
+1990,4,Campeche,3,Ave     ,1,Carne,4200.000,0.000,5.67,23826.600,0
+1990,4,Campeche,3,Ave     ,4,Huevo-plato,800.000,0.000,2.66,2128.800,0
+1990,4,Campeche,3,Ave     ,8,Ganado en pie,5483.000,0.000,4.50,24695.430,0
+1990,4,Campeche,4,Bovino,1,Carne,19601.000,0.000,7.50,146968.300,0
+1990,4,Campeche,4,Bovino,3,Ganado en pie,37730.000,0.000,3.96,149259.880,0
+1990,4,Campeche,4,Bovino,6,Leche,15500.000,0.000,1.11,17127.500,0
+1990,4,Campeche,6,Caprino,1,Carne,7.000,0.000,9.00,63.000,0
+1990,4,Campeche,12,Ovino,1,Carne,36.000,0.000,8.97,322.990,0
+1990,4,Campeche,12,Ovino,3,Ganado en pie,78.000,0.000,3.82,298.040,0
+1990,4,Campeche,14,Porcino,1,Carne,3000.000,0.000,6.90,20706.000,0
+1990,4,Campeche,14,Porcino,3,Ganado en pie,3960.000,0.000,3.92,15515.280,0
+1990,5,Coahuila,1,Abeja,2,Cera,28.000,0.000,7.29,204.010,0
+1990,5,Coahuila,1,Abeja,7,Miel,130.000,0.000,6.21,807.040,0
+1990,5,Coahuila,3,Ave     ,1,Carne,13296.000,0.000,5.60,74457.600,0
+1990,5,Coahuila,3,Ave     ,4,Huevo-plato,33717.000,0.000,2.44,82202.050,0
+1990,5,Coahuila,3,Ave     ,8,Ganado en pie,16842.000,0.000,4.32,72706.910,0
+1990,5,Coahuila,4,Bovino,1,Carne,31566.000,0.000,7.64,241069.540,0
+1990,5,Coahuila,4,Bovino,3,Ganado en pie,55719.000,0.000,3.55,197802.450,0
+1990,5,Coahuila,4,Bovino,6,Leche,325724.000,0.000,1.05,340707.300,0
+1990,5,Coahuila,6,Caprino,1,Carne,3825.000,0.000,10.23,39125.930,0
+1990,5,Coahuila,6,Caprino,3,Ganado en pie,8029.000,0.000,3.68,29546.720,0
+1990,5,Coahuila,6,Caprino,6,Leche,36373.000,0.000,1.07,38737.250,0
+1990,5,Coahuila,12,Ovino,1,Carne,514.000,0.000,10.67,5482.840,0
+1990,5,Coahuila,12,Ovino,3,Ganado en pie,1110.000,0.000,5.00,5550.000,0
+1990,5,Coahuila,14,Porcino,1,Carne,6740.000,0.000,6.83,46054.420,0
+1990,5,Coahuila,14,Porcino,3,Ganado en pie,9064.000,0.000,3.32,30065.290,0
+1990,6,Colima,1,Abeja,2,Cera,84.000,0.000,7.25,609.000,0
+1990,6,Colima,1,Abeja,7,Miel,1201.000,0.000,5.58,6705.180,0
+1990,6,Colima,3,Ave     ,1,Carne,3217.000,0.000,6.17,19839.240,0
+1990,6,Colima,3,Ave     ,4,Huevo-plato,2930.000,0.000,2.75,8057.500,0
+1990,6,Colima,3,Ave     ,8,Ganado en pie,3973.000,0.000,3.62,14370.340,0
+1990,6,Colima,4,Bovino,1,Carne,9873.000,0.000,8.18,80711.780,0
+1990,6,Colima,4,Bovino,3,Ganado en pie,17493.000,0.000,3.46,60490.790,0
+1990,6,Colima,4,Bovino,6,Leche,38730.000,0.000,1.10,42603.000,0
+1990,6,Colima,6,Caprino,1,Carne,175.000,0.000,10.36,1813.000,0
+1990,6,Colima,6,Caprino,3,Ganado en pie,300.000,0.000,5.41,1622.100,0
+1990,6,Colima,6,Caprino,6,Leche,22.000,0.000,1.18,26.000,0
+1990,6,Colima,12,Ovino,1,Carne,93.000,0.000,10.55,980.960,0
+1990,6,Colima,12,Ovino,3,Ganado en pie,245.000,0.000,6.17,1510.920,0
+1990,6,Colima,14,Porcino,1,Carne,1887.000,0.000,6.90,13020.300,0
+1990,6,Colima,14,Porcino,3,Ganado en pie,2520.000,0.000,4.10,10332.000,0
+1990,7,Chiapas,1,Abeja,2,Cera,17.000,0.000,7.41,126.000,0
+1990,7,Chiapas,1,Abeja,7,Miel,2871.000,0.000,5.80,16663.280,0
+1990,7,Chiapas,3,Ave     ,1,Carne,15062.000,0.000,6.94,104485.090,0
+1990,7,Chiapas,3,Ave     ,4,Huevo-plato,8483.000,0.000,2.61,22157.600,0
+1990,7,Chiapas,3,Ave     ,8,Ganado en pie,18828.000,0.000,4.56,85818.020,0
+1990,7,Chiapas,4,Bovino,1,Carne,65146.000,0.000,8.13,529897.560,0
+1990,7,Chiapas,4,Bovino,3,Ganado en pie,124467.000,0.000,4.18,520147.590,0
+1990,7,Chiapas,4,Bovino,6,Leche,200469.000,0.000,1.07,213900.420,0
+1990,7,Chiapas,6,Caprino,1,Carne,192.000,0.000,10.48,2011.970,0
+1990,7,Chiapas,6,Caprino,3,Ganado en pie,416.000,0.000,5.45,2267.200,0
+1990,7,Chiapas,6,Caprino,6,Leche,253.000,0.000,1.23,311.950,0
+1990,7,Chiapas,12,Ovino,1,Carne,1223.000,0.000,8.54,10444.420,0
+1990,7,Chiapas,12,Ovino,3,Ganado en pie,2618.000,0.000,4.63,12129.190,0
+1990,7,Chiapas,12,Ovino,5,Lana,110.000,0.000,6.13,673.970,0
+1990,7,Chiapas,14,Porcino,1,Carne,14783.000,0.000,6.75,99770.470,0
+1990,7,Chiapas,14,Porcino,3,Ganado en pie,19624.000,0.000,4.55,89328.450,0
+1990,8,Chihuahua,1,Abeja,2,Cera,32.000,0.000,7.22,231.010,0
+1990,8,Chihuahua,1,Abeja,7,Miel,342.000,0.000,6.36,2176.150,0
+1990,8,Chihuahua,3,Ave     ,1,Carne,5689.000,0.000,5.50,31300.880,0
+1990,8,Chihuahua,3,Ave     ,4,Huevo-plato,3789.000,0.000,2.45,9271.680,0
+1990,8,Chihuahua,3,Ave     ,8,Ganado en pie,7112.000,0.000,3.81,27118.060,0
+1990,8,Chihuahua,4,Bovino,1,Carne,73170.000,0.000,7.54,551409.120,0
+1990,8,Chihuahua,4,Bovino,3,Ganado en pie,129960.000,0.000,3.67,477213.120,0
+1990,8,Chihuahua,4,Bovino,6,Leche,467431.000,0.000,1.10,511836.950,0
+1990,8,Chihuahua,6,Caprino,1,Carne,1359.000,0.000,10.08,13698.720,0
+1990,8,Chihuahua,6,Caprino,3,Ganado en pie,3672.000,0.000,3.20,11739.380,0
+1990,8,Chihuahua,6,Caprino,6,Leche,11626.000,0.000,1.18,13672.180,0
+1990,8,Chihuahua,12,Ovino,1,Carne,790.000,0.000,9.55,7542.920,0
+1990,8,Chihuahua,12,Ovino,3,Ganado en pie,1640.000,0.000,4.02,6587.880,0
+1990,8,Chihuahua,12,Ovino,5,Lana,163.000,0.000,6.15,1001.960,0
+1990,8,Chihuahua,14,Porcino,1,Carne,11686.000,0.000,6.28,73423.140,0
+1990,8,Chihuahua,14,Porcino,3,Ganado en pie,16638.000,0.000,4.08,67932.950,0
+1990,9,Distrito Federal,1,Abeja,7,Miel,177.000,0.000,6.38,1129.970,0
+1990,9,Distrito Federal,3,Ave     ,1,Carne,2096.000,0.000,5.86,12272.080,0
+1990,9,Distrito Federal,3,Ave     ,4,Huevo-plato,2184.000,0.000,2.75,5995.080,0
+1990,9,Distrito Federal,3,Ave     ,8,Ganado en pie,2589.000,0.000,3.61,9354.060,0
+1990,9,Distrito Federal,4,Bovino,1,Carne,1147.000,0.000,7.66,8789.460,0
+1990,9,Distrito Federal,4,Bovino,3,Ganado en pie,2376.000,0.000,3.86,9166.610,0
+1990,9,Distrito Federal,4,Bovino,6,Leche,26593.000,0.000,1.11,29465.040,0
+1990,9,Distrito Federal,6,Caprino,1,Carne,54.000,0.000,10.87,586.980,0
+1990,9,Distrito Federal,6,Caprino,3,Ganado en pie,90.000,0.000,4.73,425.970,0
+1990,9,Distrito Federal,12,Ovino,1,Carne,193.000,0.000,10.89,2101.960,0
+1990,9,Distrito Federal,12,Ovino,3,Ganado en pie,533.000,0.000,5.67,3021.040,0
+1990,9,Distrito Federal,14,Porcino,1,Carne,2552.000,0.000,6.25,15952.550,0
+1990,9,Distrito Federal,14,Porcino,3,Ganado en pie,3700.000,0.000,3.66,13534.600,0
+1990,10,Durango,1,Abeja,2,Cera,77.000,0.000,7.42,571.030,0
+1990,10,Durango,1,Abeja,7,Miel,771.000,0.000,6.18,4761.700,0
+1990,10,Durango,3,Ave     ,1,Carne,59530.000,0.000,6.30,375039.000,0
+1990,10,Durango,3,Ave     ,4,Huevo-plato,47791.000,0.000,2.49,118999.590,0
+1990,10,Durango,3,Ave     ,8,Ganado en pie,70691.000,0.000,3.98,280996.730,0
+1990,10,Durango,4,Bovino,1,Carne,45952.000,0.000,7.42,341009.790,0
+1990,10,Durango,4,Bovino,3,Ganado en pie,87193.000,0.000,4.09,356270.600,0
+1990,10,Durango,4,Bovino,6,Leche,343947.000,0.000,1.07,366303.560,0
+1990,10,Durango,6,Caprino,1,Carne,1165.000,0.000,10.08,11743.200,0
+1990,10,Durango,6,Caprino,3,Ganado en pie,2788.000,0.000,4.77,13295.970,0
+1990,10,Durango,6,Caprino,6,Leche,6755.000,0.000,1.21,8166.800,0
+1990,10,Durango,12,Ovino,1,Carne,714.000,0.000,9.94,7097.160,0
+1990,10,Durango,12,Ovino,3,Ganado en pie,1560.000,0.000,5.70,8898.240,0
+1990,10,Durango,12,Ovino,5,Lana,160.000,0.000,6.25,1000.000,0
+1990,10,Durango,14,Porcino,1,Carne,9016.000,0.000,6.19,55763.960,0
+1990,10,Durango,14,Porcino,3,Ganado en pie,12825.000,0.000,4.17,53480.250,0
+1990,11,Guanajuato,1,Abeja,2,Cera,218.000,0.000,7.04,1534.940,0
+1990,11,Guanajuato,1,Abeja,7,Miel,1197.000,0.000,6.25,7484.840,0
+1990,11,Guanajuato,3,Ave     ,1,Carne,76248.000,0.000,6.29,479447.420,0
+1990,11,Guanajuato,3,Ave     ,4,Huevo-plato,40237.000,0.000,2.66,106909.710,0
+1990,11,Guanajuato,3,Ave     ,8,Ganado en pie,91498.000,0.000,4.03,368370.950,0
+1990,11,Guanajuato,4,Bovino,1,Carne,27663.000,0.000,7.91,218786.670,0
+1990,11,Guanajuato,4,Bovino,3,Ganado en pie,48840.000,0.000,4.49,219145.080,0
+1990,11,Guanajuato,4,Bovino,6,Leche,499390.000,0.000,1.19,595772.270,0
+1990,11,Guanajuato,6,Caprino,1,Carne,1466.000,0.000,10.85,15898.770,0
+1990,11,Guanajuato,6,Caprino,3,Ganado en pie,2890.000,0.000,3.76,10857.730,0
+1990,11,Guanajuato,6,Caprino,6,Leche,20767.000,0.000,1.25,25979.520,0
+1990,11,Guanajuato,12,Ovino,1,Carne,930.000,0.000,11.07,10292.310,0
+1990,11,Guanajuato,12,Ovino,3,Ganado en pie,2100.000,0.000,5.71,11982.600,0
+1990,11,Guanajuato,12,Ovino,5,Lana,308.000,0.000,5.69,1753.140,0
+1990,11,Guanajuato,14,Porcino,1,Carne,95376.000,0.000,6.67,635776.420,0
+1990,11,Guanajuato,14,Porcino,3,Ganado en pie,152958.000,0.000,4.21,644412.050,0
+1990,12,Guerrero,1,Abeja,2,Cera,153.000,0.000,7.17,1097.010,0
+1990,12,Guerrero,1,Abeja,7,Miel,4055.000,0.000,6.38,25850.630,0
+1990,12,Guerrero,3,Ave     ,1,Carne,12989.000,0.000,6.71,87169.180,0
+1990,12,Guerrero,3,Ave     ,4,Huevo-plato,9129.000,0.000,2.66,24246.620,0
+1990,12,Guerrero,3,Ave     ,8,Ganado en pie,16236.000,0.000,3.68,59667.300,0
+1990,12,Guerrero,4,Bovino,1,Carne,27808.000,0.000,7.86,218570.880,0
+1990,12,Guerrero,4,Bovino,3,Ganado en pie,53996.000,0.000,4.34,234504.630,0
+1990,12,Guerrero,4,Bovino,6,Leche,55810.000,0.000,1.17,65018.650,0
+1990,12,Guerrero,6,Caprino,1,Carne,2589.000,0.000,11.32,29304.890,0
+1990,12,Guerrero,6,Caprino,3,Ganado en pie,7018.000,0.000,5.07,35567.220,0
+1990,12,Guerrero,6,Caprino,6,Leche,2434.000,0.000,1.21,2947.570,0
+1990,12,Guerrero,12,Ovino,1,Carne,288.000,0.000,10.82,3117.020,0
+1990,12,Guerrero,12,Ovino,3,Ganado en pie,663.000,0.000,5.21,3454.230,0
+1990,12,Guerrero,14,Porcino,1,Carne,20511.000,0.000,6.50,133321.500,0
+1990,12,Guerrero,14,Porcino,3,Ganado en pie,28119.000,0.000,3.79,106514.770,0
+1990,13,Hidalgo,1,Abeja,2,Cera,168.000,0.000,7.39,1241.020,0
+1990,13,Hidalgo,1,Abeja,7,Miel,1510.000,0.000,5.96,9004.130,0
+1990,13,Hidalgo,3,Ave     ,1,Carne,31612.000,0.000,5.94,187901.730,0
+1990,13,Hidalgo,3,Ave     ,4,Huevo-plato,4228.000,0.000,2.64,11149.240,0
+1990,13,Hidalgo,3,Ave     ,8,Ganado en pie,39516.000,0.000,4.01,158577.710,0
+1990,13,Hidalgo,4,Bovino,1,Carne,19293.000,0.000,8.21,158434.120,0
+1990,13,Hidalgo,4,Bovino,3,Ganado en pie,36105.000,0.000,4.58,165505.320,0
+1990,13,Hidalgo,4,Bovino,6,Leche,273229.000,0.000,1.19,324596.050,0
+1990,13,Hidalgo,6,Caprino,1,Carne,1067.000,0.000,9.99,10656.130,0
+1990,13,Hidalgo,6,Caprino,3,Ganado en pie,1595.000,0.000,5.74,9160.090,0
+1990,13,Hidalgo,6,Caprino,6,Leche,1883.000,0.000,1.22,2304.790,0
+1990,13,Hidalgo,12,Ovino,1,Carne,2666.000,0.000,10.83,28864.780,0
+1990,13,Hidalgo,12,Ovino,3,Ganado en pie,6027.000,0.000,6.63,39977.090,0
+1990,13,Hidalgo,12,Ovino,5,Lana,631.000,0.000,5.89,3717.850,0
+1990,13,Hidalgo,14,Porcino,1,Carne,17047.000,0.000,6.13,104412.880,0
+1990,13,Hidalgo,14,Porcino,3,Ganado en pie,24598.000,0.000,3.87,95145.060,0
+1990,14,Jalisco,1,Abeja,2,Cera,501.000,0.000,7.05,3532.050,0
+1990,14,Jalisco,1,Abeja,7,Miel,5013.000,0.000,5.61,28122.930,0
+1990,14,Jalisco,3,Ave     ,1,Carne,90774.000,0.000,6.64,602920.910,0
+1990,14,Jalisco,3,Ave     ,4,Huevo-plato,232188.000,0.000,2.50,580005.620,0
+1990,14,Jalisco,3,Ave     ,8,Ganado en pie,121032.000,0.000,3.61,436925.520,0
+1990,14,Jalisco,4,Bovino,1,Carne,128600.000,0.000,7.54,969644.000,0
+1990,14,Jalisco,4,Bovino,3,Ganado en pie,239265.000,0.000,3.50,837427.500,0
+1990,14,Jalisco,4,Bovino,6,Leche,1120400.000,0.000,1.15,1285098.800,0
+1990,14,Jalisco,6,Caprino,1,Carne,1633.000,0.000,11.20,18289.600,0
+1990,14,Jalisco,6,Caprino,3,Ganado en pie,3760.000,0.000,4.02,15122.720,0
+1990,14,Jalisco,6,Caprino,6,Leche,7500.000,0.000,1.09,8190.000,0
+1990,14,Jalisco,12,Ovino,1,Carne,396.000,0.000,10.02,3965.940,0
+1990,14,Jalisco,12,Ovino,3,Ganado en pie,960.000,0.000,4.40,4227.840,0
+1990,14,Jalisco,14,Porcino,1,Carne,143290.000,0.000,6.90,988701.000,0
+1990,14,Jalisco,14,Porcino,3,Ganado en pie,196020.000,0.000,3.60,706260.060,0
+1990,15,México,1,Abeja,2,Cera,76.000,0.000,7.45,565.970,0
+1990,15,México,1,Abeja,7,Miel,1282.000,0.000,5.87,7522.780,0
+1990,15,México,3,Ave     ,1,Carne,44884.000,0.000,6.11,274331.010,0
+1990,15,México,3,Ave     ,4,Huevo-plato,22473.000,0.000,2.57,57643.250,0
+1990,15,México,3,Ave     ,8,Ganado en pie,56106.000,0.000,3.65,205011.320,0
+1990,15,México,4,Bovino,1,Carne,26282.000,0.000,8.04,211386.130,0
+1990,15,México,4,Bovino,3,Ganado en pie,47824.000,0.000,4.84,231659.460,0
+1990,15,México,4,Bovino,6,Leche,304519.000,0.000,1.20,364204.720,0
+1990,15,México,6,Caprino,1,Carne,1533.000,0.000,11.33,17367.360,0
+1990,15,México,6,Caprino,3,Ganado en pie,3638.000,0.000,5.01,18208.190,0
+1990,15,México,12,Ovino,1,Carne,3806.000,0.000,11.20,42638.620,0
+1990,15,México,12,Ovino,3,Ganado en pie,8569.000,0.000,5.46,46769.600,0
+1990,15,México,12,Ovino,5,Lana,859.000,0.000,6.01,5159.150,0
+1990,15,México,14,Porcino,1,Carne,32424.000,0.000,6.28,203655.140,0
+1990,15,México,14,Porcino,3,Ganado en pie,45080.000,0.000,3.64,164226.440,0
+1990,16,Michoacán,1,Abeja,2,Cera,229.000,0.000,7.13,1633.000,0
+1990,16,Michoacán,1,Abeja,7,Miel,3050.000,0.000,6.02,18373.200,0
+1990,16,Michoacán,3,Ave     ,1,Carne,7333.000,0.000,5.99,43895.340,0
+1990,16,Michoacán,3,Ave     ,4,Huevo-plato,34469.000,0.000,2.66,91722.010,0
+1990,16,Michoacán,3,Ave     ,8,Ganado en pie,8844.000,0.000,3.72,32926.210,0
+1990,16,Michoacán,4,Bovino,1,Carne,45220.000,0.000,7.61,344259.860,0
+1990,16,Michoacán,4,Bovino,3,Ganado en pie,76518.000,0.000,4.20,321222.560,0
+1990,16,Michoacán,4,Bovino,6,Leche,236618.000,0.000,1.20,284178.220,0
+1990,16,Michoacán,6,Caprino,1,Carne,1976.000,0.000,11.20,22131.200,0
+1990,16,Michoacán,6,Caprino,3,Ganado en pie,3364.000,0.000,4.30,14461.840,0
+1990,16,Michoacán,6,Caprino,6,Leche,3958.000,0.000,1.20,4753.560,0
+1990,16,Michoacán,12,Ovino,1,Carne,724.000,0.000,10.99,7958.930,0
+1990,16,Michoacán,12,Ovino,3,Ganado en pie,1482.000,0.000,5.47,8108.020,0
+1990,16,Michoacán,12,Ovino,5,Lana,96.000,0.000,6.20,595.010,0
+1990,16,Michoacán,14,Porcino,1,Carne,58696.000,0.000,6.57,385456.630,0
+1990,16,Michoacán,14,Porcino,3,Ganado en pie,81604.000,0.000,3.92,320214.100,0
+1990,17,Morelos,1,Abeja,2,Cera,14.000,0.000,7.21,101.000,0
+1990,17,Morelos,1,Abeja,7,Miel,1262.000,0.000,5.93,7483.660,0
+1990,17,Morelos,3,Ave     ,1,Carne,35219.000,0.000,6.75,237869.130,0
+1990,17,Morelos,3,Ave     ,4,Huevo-plato,13238.000,0.000,2.45,32459.580,0
+1990,17,Morelos,3,Ave     ,8,Ganado en pie,44610.000,0.000,3.85,171570.060,0
+1990,17,Morelos,4,Bovino,1,Carne,3652.000,0.000,7.63,27868.410,0
+1990,17,Morelos,4,Bovino,3,Ganado en pie,6570.000,0.000,4.11,26976.420,0
+1990,17,Morelos,4,Bovino,6,Leche,17751.000,0.000,1.11,19739.110,0
+1990,17,Morelos,6,Caprino,1,Carne,205.000,0.000,11.33,2322.040,0
+1990,17,Morelos,6,Caprino,3,Ganado en pie,350.000,0.000,4.80,1680.000,0
+1990,17,Morelos,6,Caprino,6,Leche,901.000,0.000,1.21,1085.710,0
+1990,17,Morelos,12,Ovino,1,Carne,125.000,0.000,10.81,1351.000,0
+1990,17,Morelos,12,Ovino,3,Ganado en pie,312.000,0.000,4.65,1452.050,0
+1990,17,Morelos,14,Porcino,1,Carne,1346.000,0.000,6.29,8464.990,0
+1990,17,Morelos,14,Porcino,3,Ganado en pie,1974.000,0.000,3.58,7064.950,0
+1990,18,Nayarit,1,Abeja,2,Cera,15.000,0.000,7.27,109.010,0
+1990,18,Nayarit,1,Abeja,7,Miel,890.000,0.000,6.30,5603.440,0
+1990,18,Nayarit,3,Ave     ,1,Carne,11677.000,0.000,6.69,78165.840,0
+1990,18,Nayarit,3,Ave     ,4,Huevo-plato,18429.000,0.000,2.39,44045.310,0
+1990,18,Nayarit,3,Ave     ,8,Ganado en pie,15326.000,0.000,3.57,54759.800,0
+1990,18,Nayarit,4,Bovino,1,Carne,18186.000,0.000,8.01,145651.670,0
+1990,18,Nayarit,4,Bovino,3,Ganado en pie,31239.000,0.000,3.38,105712.780,0
+1990,18,Nayarit,4,Bovino,6,Leche,43265.000,0.000,1.14,49149.040,0
+1990,18,Nayarit,6,Caprino,1,Carne,251.000,0.000,10.23,2567.980,0
+1990,18,Nayarit,6,Caprino,3,Ganado en pie,465.000,0.000,3.41,1586.120,0
+1990,18,Nayarit,6,Caprino,6,Leche,364.000,0.000,1.19,433.160,0
+1990,18,Nayarit,12,Ovino,1,Carne,40.000,0.000,10.03,401.000,0
+1990,18,Nayarit,12,Ovino,3,Ganado en pie,120.000,0.000,4.63,555.000,0
+1990,18,Nayarit,14,Porcino,1,Carne,4346.000,0.000,6.87,29874.400,0
+1990,18,Nayarit,14,Porcino,3,Ganado en pie,5940.000,0.000,3.32,19708.920,0
+1990,19,Nuevo León,1,Abeja,2,Cera,30.000,0.000,7.17,215.010,0
+1990,19,Nuevo León,1,Abeja,7,Miel,298.000,0.000,6.00,1788.000,0
+1990,19,Nuevo León,3,Ave     ,1,Carne,39021.000,0.000,5.17,201621.510,0
+1990,19,Nuevo León,3,Ave     ,4,Huevo-plato,62736.000,0.000,2.54,159035.760,0
+1990,19,Nuevo León,3,Ave     ,8,Ganado en pie,49995.000,0.000,3.48,173732.630,0
+1990,19,Nuevo León,4,Bovino,1,Carne,18286.000,0.000,7.90,144532.540,0
+1990,19,Nuevo León,4,Bovino,3,Ganado en pie,33670.000,0.000,2.81,94680.040,0
+1990,19,Nuevo León,4,Bovino,6,Leche,31845.000,0.000,1.05,33564.630,0
+1990,19,Nuevo León,6,Caprino,1,Carne,1568.000,0.000,12.13,19024.540,0
+1990,19,Nuevo León,6,Caprino,3,Ganado en pie,2716.000,0.000,5.76,15636.010,0
+1990,19,Nuevo León,6,Caprino,6,Leche,5816.000,0.000,1.19,6944.300,0
+1990,19,Nuevo León,12,Ovino,1,Carne,304.000,0.000,10.36,3150.050,0
+1990,19,Nuevo León,12,Ovino,3,Ganado en pie,629.000,0.000,5.29,3329.300,0
+1990,19,Nuevo León,12,Ovino,5,Lana,74.000,0.000,5.76,426.020,0
+1990,19,Nuevo León,14,Porcino,1,Carne,13936.000,0.000,5.80,80828.800,0
+1990,19,Nuevo León,14,Porcino,3,Ganado en pie,19796.000,0.000,3.12,61704.130,0
+1990,20,Oaxaca,1,Abeja,2,Cera,278.000,0.000,7.46,2073.880,0
+1990,20,Oaxaca,1,Abeja,7,Miel,2015.000,0.000,6.01,12112.170,0
+1990,20,Oaxaca,3,Ave     ,1,Carne,3500.000,0.000,7.25,25375.000,0
+1990,20,Oaxaca,3,Ave     ,4,Huevo-plato,3900.000,0.000,2.70,10526.100,0
+1990,20,Oaxaca,3,Ave     ,8,Ganado en pie,4324.000,0.000,4.63,19998.500,0
+1990,20,Oaxaca,4,Bovino,1,Carne,35000.000,0.000,8.11,283920.000,0
+1990,20,Oaxaca,4,Bovino,3,Ganado en pie,68211.000,0.000,4.63,315475.880,0
+1990,20,Oaxaca,4,Bovino,6,Leche,91600.000,0.000,1.17,107172.000,0
+1990,20,Oaxaca,6,Caprino,1,Carne,3265.000,0.000,11.20,36568.000,0
+1990,20,Oaxaca,6,Caprino,3,Ganado en pie,6240.000,0.000,5.85,36497.760,0
+1990,20,Oaxaca,6,Caprino,6,Leche,2669.000,0.000,1.23,3272.190,0
+1990,20,Oaxaca,12,Ovino,1,Carne,1195.000,0.000,10.41,12436.370,0
+1990,20,Oaxaca,12,Ovino,3,Ganado en pie,2240.000,0.000,5.51,12333.440,0
+1990,20,Oaxaca,12,Ovino,5,Lana,298.000,0.000,5.89,1754.030,0
+1990,20,Oaxaca,14,Porcino,1,Carne,23672.000,0.000,6.70,158602.400,0
+1990,20,Oaxaca,14,Porcino,3,Ganado en pie,33370.000,0.000,4.50,150165.000,0
+1990,21,Puebla,1,Abeja,2,Cera,300.000,0.000,7.10,2130.000,0
+1990,21,Puebla,1,Abeja,7,Miel,3001.000,0.000,6.27,18807.270,0
+1990,21,Puebla,3,Ave     ,1,Carne,60091.000,0.000,6.62,397742.330,0
+1990,21,Puebla,3,Ave     ,4,Huevo-plato,228372.000,0.000,2.77,633275.560,0
+1990,21,Puebla,3,Ave     ,8,Ganado en pie,75114.000,0.000,3.98,299179.060,0
+1990,21,Puebla,4,Bovino,1,Carne,21403.000,0.000,7.08,151554.640,0
+1990,21,Puebla,4,Bovino,3,Ganado en pie,40670.000,0.000,3.71,151007.710,0
+1990,21,Puebla,4,Bovino,6,Leche,260400.000,0.000,1.01,263785.200,0
+1990,21,Puebla,6,Caprino,1,Carne,2640.000,0.000,11.20,29568.000,0
+1990,21,Puebla,6,Caprino,3,Ganado en pie,4089.000,0.000,4.33,17689.010,0
+1990,21,Puebla,6,Caprino,6,Leche,1166.000,0.000,1.19,1384.040,0
+1990,21,Puebla,12,Ovino,1,Carne,1657.000,0.000,10.34,17126.750,0
+1990,21,Puebla,12,Ovino,3,Ganado en pie,2772.000,0.000,5.64,15639.620,0
+1990,21,Puebla,12,Ovino,5,Lana,347.000,0.000,5.95,2063.960,0
+1990,21,Puebla,14,Porcino,1,Carne,46644.000,0.000,6.16,287233.750,0
+1990,21,Puebla,14,Porcino,3,Ganado en pie,68870.000,0.000,3.81,262188.090,0
+1990,22,Querétaro,1,Abeja,2,Cera,50.000,0.000,7.16,358.000,0
+1990,22,Querétaro,1,Abeja,7,Miel,400.000,0.000,6.39,2554.000,0
+1990,22,Querétaro,3,Ave     ,1,Carne,30448.000,0.000,6.17,187772.820,0
+1990,22,Querétaro,3,Ave     ,4,Huevo-plato,5254.000,0.000,2.74,14385.450,0
+1990,22,Querétaro,3,Ave     ,8,Ganado en pie,38060.000,0.000,5.20,197950.060,0
+1990,22,Querétaro,4,Bovino,1,Carne,10150.000,0.000,8.18,82976.250,0
+1990,22,Querétaro,4,Bovino,3,Ganado en pie,20000.000,0.000,5.01,100220.000,0
+1990,22,Querétaro,4,Bovino,6,Leche,127750.000,0.000,1.05,134265.250,0
+1990,22,Querétaro,6,Caprino,1,Carne,372.000,0.000,11.70,4350.910,0
+1990,22,Querétaro,6,Caprino,3,Ganado en pie,812.000,0.000,4.66,3786.360,0
+1990,22,Querétaro,6,Caprino,6,Leche,1902.000,0.000,1.14,2164.480,0
+1990,22,Querétaro,12,Ovino,1,Carne,313.000,0.000,11.82,3699.030,0
+1990,22,Querétaro,12,Ovino,3,Ganado en pie,702.000,0.000,6.26,4395.220,0
+1990,22,Querétaro,12,Ovino,5,Lana,59.000,0.000,5.73,338.010,0
+1990,22,Querétaro,14,Porcino,1,Carne,4089.000,0.000,7.07,28905.140,0
+1990,22,Querétaro,14,Porcino,3,Ganado en pie,6100.000,0.000,4.75,28975.000,0
+1990,23,Quintana Roo,1,Abeja,2,Cera,129.000,0.000,6.79,876.040,0
+1990,23,Quintana Roo,1,Abeja,7,Miel,4537.000,0.000,5.58,25330.070,0
+1990,23,Quintana Roo,3,Ave     ,1,Carne,5615.000,0.000,5.71,32050.420,0
+1990,23,Quintana Roo,3,Ave     ,4,Huevo-plato,1545.000,0.000,2.72,4208.580,0
+1990,23,Quintana Roo,3,Ave     ,8,Ganado en pie,7597.000,0.000,3.47,26338.800,0
+1990,23,Quintana Roo,4,Bovino,1,Carne,1748.000,0.000,7.78,13602.940,0
+1990,23,Quintana Roo,4,Bovino,3,Ganado en pie,3501.000,0.000,3.68,12894.180,0
+1990,23,Quintana Roo,4,Bovino,6,Leche,1771.000,0.000,1.20,2125.200,0
+1990,23,Quintana Roo,6,Caprino,1,Carne,3.000,0.000,10.67,32.000,0
+1990,23,Quintana Roo,12,Ovino,1,Carne,63.000,0.000,10.64,670.010,0
+1990,23,Quintana Roo,12,Ovino,3,Ganado en pie,148.000,0.000,4.30,635.960,0
+1990,23,Quintana Roo,14,Porcino,1,Carne,5700.000,0.000,6.50,37050.000,0
+1990,23,Quintana Roo,14,Porcino,3,Ganado en pie,7480.000,0.000,4.50,33660.000,0
+1990,24,San Luis Potosí,1,Abeja,2,Cera,23.000,0.000,7.48,171.990,0
+1990,24,San Luis Potosí,1,Abeja,7,Miel,544.000,0.000,6.03,3280.860,0
+1990,24,San Luis Potosí,3,Ave     ,1,Carne,17593.000,0.000,6.93,121989.860,0
+1990,24,San Luis Potosí,3,Ave     ,4,Huevo-plato,1188.000,0.000,2.77,3295.510,0
+1990,24,San Luis Potosí,3,Ave     ,8,Ganado en pie,23092.000,0.000,3.92,90543.730,0
+1990,24,San Luis Potosí,4,Bovino,1,Carne,23763.000,0.000,7.63,181311.690,0
+1990,24,San Luis Potosí,4,Bovino,3,Ganado en pie,44511.000,0.000,3.90,173414.860,0
+1990,24,San Luis Potosí,4,Bovino,6,Leche,247593.000,0.000,1.11,274828.230,0
+1990,24,San Luis Potosí,6,Caprino,1,Carne,5949.000,0.000,10.51,62518.040,0
+1990,24,San Luis Potosí,6,Caprino,3,Ganado en pie,13572.000,0.000,3.56,48329.890,0
+1990,24,San Luis Potosí,6,Caprino,6,Leche,10713.000,0.000,1.17,12523.500,0
+1990,24,San Luis Potosí,12,Ovino,1,Carne,3287.000,0.000,9.99,32827.270,0
+1990,24,San Luis Potosí,12,Ovino,3,Ganado en pie,6878.000,0.000,3.80,26136.400,0
+1990,24,San Luis Potosí,12,Ovino,5,Lana,543.000,0.000,6.09,3309.040,0
+1990,24,San Luis Potosí,14,Porcino,1,Carne,5836.000,0.000,6.52,38033.210,0
+1990,24,San Luis Potosí,14,Porcino,3,Ganado en pie,8010.000,0.000,3.82,30558.150,0
+1990,25,Sinaloa,1,Abeja,2,Cera,70.000,0.000,7.41,518.980,0
+1990,25,Sinaloa,1,Abeja,7,Miel,1337.000,0.000,6.34,8472.570,0
+1990,25,Sinaloa,3,Ave     ,1,Carne,32960.000,0.000,6.00,197760.000,0
+1990,25,Sinaloa,3,Ave     ,4,Huevo-plato,51931.000,0.000,2.61,135280.260,0
+1990,25,Sinaloa,3,Ave     ,8,Ganado en pie,41200.000,0.000,4.55,187542.400,0
+1990,25,Sinaloa,4,Bovino,1,Carne,41499.000,0.000,7.50,311242.500,0
+1990,25,Sinaloa,4,Bovino,3,Ganado en pie,77028.000,0.000,4.45,343082.710,0
+1990,25,Sinaloa,4,Bovino,6,Leche,112303.000,0.000,1.02,114324.450,0
+1990,25,Sinaloa,6,Caprino,1,Carne,556.000,0.000,9.83,5463.810,0
+1990,25,Sinaloa,6,Caprino,3,Ganado en pie,1280.000,0.000,3.85,4925.440,0
+1990,25,Sinaloa,6,Caprino,6,Leche,1274.000,0.000,1.13,1439.620,0
+1990,25,Sinaloa,12,Ovino,1,Carne,149.000,0.000,8.45,1259.050,0
+1990,25,Sinaloa,12,Ovino,3,Ganado en pie,320.000,0.000,4.41,1410.880,0
+1990,25,Sinaloa,14,Porcino,1,Carne,22640.000,0.000,6.81,154246.320,0
+1990,25,Sinaloa,14,Porcino,3,Ganado en pie,31960.000,0.000,4.38,139825.000,0
+1990,26,Sonora,1,Abeja,7,Miel,1832.000,0.000,5.79,10610.940,0
+1990,26,Sonora,3,Ave     ,1,Carne,22885.000,0.000,6.25,142939.710,0
+1990,26,Sonora,3,Ave     ,4,Huevo-plato,112176.000,0.000,2.61,292555.010,0
+1990,26,Sonora,3,Ave     ,8,Ganado en pie,26924.000,0.000,4.00,107696.000,0
+1990,26,Sonora,4,Bovino,1,Carne,67872.000,0.000,7.75,525736.510,0
+1990,26,Sonora,4,Bovino,3,Ganado en pie,132342.000,0.000,3.19,422700.350,0
+1990,26,Sonora,4,Bovino,6,Leche,80075.000,0.000,1.03,82317.100,0
+1990,26,Sonora,6,Caprino,1,Carne,320.000,0.000,9.05,2896.960,0
+1990,26,Sonora,6,Caprino,3,Ganado en pie,580.000,0.000,3.08,1788.140,0
+1990,26,Sonora,6,Caprino,6,Leche,305.000,0.000,1.10,333.980,0
+1990,26,Sonora,12,Ovino,1,Carne,210.000,0.000,9.82,2061.990,0
+1990,26,Sonora,12,Ovino,3,Ganado en pie,507.000,0.000,3.72,1885.030,0
+1990,26,Sonora,14,Porcino,1,Carne,110191.000,0.000,6.33,697949.790,0
+1990,26,Sonora,14,Porcino,3,Ganado en pie,154100.000,0.000,3.31,509916.900,0
+1990,27,Tabasco,1,Abeja,2,Cera,7.000,0.000,7.00,49.000,0
+1990,27,Tabasco,1,Abeja,7,Miel,361.000,0.000,6.39,2307.150,0
+1990,27,Tabasco,3,Ave     ,1,Carne,11984.000,0.000,5.96,71400.670,0
+1990,27,Tabasco,3,Ave     ,4,Huevo-plato,2149.000,0.000,2.55,5488.550,0
+1990,27,Tabasco,3,Ave     ,8,Ganado en pie,15729.000,0.000,3.52,55318.890,0
+1990,27,Tabasco,4,Bovino,1,Carne,67062.000,0.000,7.97,534215.890,0
+1990,27,Tabasco,4,Bovino,3,Ganado en pie,121968.000,0.000,3.73,455306.540,0
+1990,27,Tabasco,4,Bovino,6,Leche,89495.000,0.000,1.06,95133.190,0
+1990,27,Tabasco,12,Ovino,1,Carne,192.000,0.000,10.08,1935.940,0
+1990,27,Tabasco,12,Ovino,3,Ganado en pie,507.000,0.000,4.50,2282.010,0
+1990,27,Tabasco,14,Porcino,1,Carne,10039.000,0.000,7.50,75292.500,0
+1990,27,Tabasco,14,Porcino,3,Ganado en pie,15049.000,0.000,4.03,60692.620,0
+1990,28,Tamaulipas,1,Abeja,2,Cera,83.000,0.000,6.93,575.020,0
+1990,28,Tamaulipas,1,Abeja,7,Miel,957.000,0.000,6.39,6113.320,0
+1990,28,Tamaulipas,3,Ave     ,1,Carne,1813.000,0.000,5.84,10591.550,0
+1990,28,Tamaulipas,3,Ave     ,4,Huevo-plato,3255.000,0.000,2.54,8274.210,0
+1990,28,Tamaulipas,3,Ave     ,8,Ganado en pie,2379.000,0.000,3.87,9197.210,0
+1990,28,Tamaulipas,4,Bovino,1,Carne,44005.000,0.000,7.21,317408.070,0
+1990,28,Tamaulipas,4,Bovino,3,Ganado en pie,79335.000,0.000,3.54,281004.570,0
+1990,28,Tamaulipas,4,Bovino,6,Leche,22752.000,0.000,1.16,26301.310,0
+1990,28,Tamaulipas,6,Caprino,1,Carne,456.000,0.000,9.38,4279.100,0
+1990,28,Tamaulipas,6,Caprino,3,Ganado en pie,930.000,0.000,4.01,3733.020,0
+1990,28,Tamaulipas,6,Caprino,6,Leche,225.000,0.000,1.08,243.000,0
+1990,28,Tamaulipas,12,Ovino,1,Carne,416.000,0.000,11.88,4942.910,0
+1990,28,Tamaulipas,12,Ovino,3,Ganado en pie,880.000,0.000,4.35,3828.880,0
+1990,28,Tamaulipas,12,Ovino,5,Lana,6.000,0.000,6.17,37.000,0
+1990,28,Tamaulipas,14,Porcino,1,Carne,3534.000,0.000,6.68,23600.050,0
+1990,28,Tamaulipas,14,Porcino,3,Ganado en pie,4982.000,0.000,3.25,16186.520,0
+1990,29,Tlaxcala,1,Abeja,2,Cera,15.000,0.000,7.33,110.000,0
+1990,29,Tlaxcala,1,Abeja,7,Miel,190.000,0.000,6.36,1208.970,0
+1990,29,Tlaxcala,3,Ave     ,1,Carne,2170.000,0.000,5.82,12622.890,0
+1990,29,Tlaxcala,3,Ave     ,4,Huevo-plato,960.000,0.000,2.41,2316.480,0
+1990,29,Tlaxcala,3,Ave     ,8,Ganado en pie,2834.000,0.000,3.17,8978.110,0
+1990,29,Tlaxcala,4,Bovino,1,Carne,1274.000,0.000,6.84,8711.610,0
+1990,29,Tlaxcala,4,Bovino,3,Ganado en pie,2232.000,0.000,4.30,9586.440,0
+1990,29,Tlaxcala,4,Bovino,6,Leche,77144.000,0.000,1.16,89332.750,0
+1990,29,Tlaxcala,6,Caprino,1,Carne,285.000,0.000,9.86,2810.960,0
+1990,29,Tlaxcala,6,Caprino,3,Ganado en pie,651.000,0.000,4.60,2995.250,0
+1990,29,Tlaxcala,6,Caprino,6,Leche,535.000,0.000,1.26,674.100,0
+1990,29,Tlaxcala,12,Ovino,1,Carne,807.000,0.000,10.56,8524.340,0
+1990,29,Tlaxcala,12,Ovino,3,Ganado en pie,1794.000,0.000,5.13,9194.250,0
+1990,29,Tlaxcala,12,Ovino,5,Lana,349.000,0.000,6.27,2188.930,0
+1990,29,Tlaxcala,14,Porcino,1,Carne,15423.000,0.000,6.50,100249.500,0
+1990,29,Tlaxcala,14,Porcino,3,Ganado en pie,21344.000,0.000,3.95,84351.490,0
+1990,30,Veracruz,1,Abeja,2,Cera,200.000,0.000,7.18,1436.000,0
+1990,30,Veracruz,1,Abeja,7,Miel,6000.000,0.000,5.78,34698.000,0
+1990,30,Veracruz,3,Ave     ,1,Carne,46540.000,0.000,6.69,311538.760,0
+1990,30,Veracruz,3,Ave     ,4,Huevo-plato,10641.000,0.000,2.69,28634.930,0
+1990,30,Veracruz,3,Ave     ,8,Ganado en pie,61085.000,0.000,3.90,238231.500,0
+1990,30,Veracruz,4,Bovino,1,Carne,125960.000,0.000,7.53,948856.680,0
+1990,30,Veracruz,4,Bovino,3,Ganado en pie,236115.000,0.000,3.99,941862.740,0
+1990,30,Veracruz,4,Bovino,6,Leche,549468.000,0.000,1.12,613206.290,0
+1990,30,Veracruz,6,Caprino,1,Carne,350.000,0.000,10.94,3829.000,0
+1990,30,Veracruz,6,Caprino,3,Ganado en pie,720.000,0.000,5.02,3610.800,0
+1990,30,Veracruz,6,Caprino,6,Leche,484.000,0.000,1.09,527.080,0
+1990,30,Veracruz,12,Ovino,1,Carne,1695.000,0.000,10.17,17243.240,0
+1990,30,Veracruz,12,Ovino,3,Ganado en pie,3813.000,0.000,4.82,18390.100,0
+1990,30,Veracruz,12,Ovino,5,Lana,101.000,0.000,5.85,590.950,0
+1990,30,Veracruz,14,Porcino,1,Carne,34684.000,0.000,6.99,242545.210,0
+1990,30,Veracruz,14,Porcino,3,Ganado en pie,50731.000,0.000,3.95,200438.180,0
+1990,31,Yucatán,1,Abeja,2,Cera,94.000,0.000,7.49,703.970,0
+1990,31,Yucatán,1,Abeja,7,Miel,10063.000,0.000,5.69,57288.660,0
+1990,31,Yucatán,3,Ave     ,1,Carne,35000.000,0.000,5.54,193970.000,0
+1990,31,Yucatán,3,Ave     ,4,Huevo-plato,27436.000,0.000,2.72,74653.360,0
+1990,31,Yucatán,3,Ave     ,8,Ganado en pie,48121.000,0.000,3.44,165632.480,0
+1990,31,Yucatán,4,Bovino,1,Carne,21816.000,0.000,7.04,153562.820,0
+1990,31,Yucatán,4,Bovino,3,Ganado en pie,42016.000,0.000,3.63,152434.050,0
+1990,31,Yucatán,4,Bovino,6,Leche,8237.000,0.000,1.01,8335.840,0
+1990,31,Yucatán,12,Ovino,1,Carne,204.000,0.000,9.63,1963.910,0
+1990,31,Yucatán,12,Ovino,3,Ganado en pie,440.000,0.000,3.99,1756.040,0
+1990,31,Yucatán,14,Porcino,1,Carne,17270.000,0.000,6.44,111253.340,0
+1990,31,Yucatán,14,Porcino,3,Ganado en pie,25414.000,0.000,3.73,94768.810,0
+1990,32,Zacatecas,1,Abeja,2,Cera,119.000,0.000,7.13,847.990,0
+1990,32,Zacatecas,1,Abeja,7,Miel,2289.000,0.000,5.89,13479.920,0
+1990,32,Zacatecas,3,Ave     ,1,Carne,3091.000,0.000,6.35,19640.210,0
+1990,32,Zacatecas,3,Ave     ,4,Huevo-plato,2123.000,0.000,2.50,5307.500,0
+1990,32,Zacatecas,3,Ave     ,8,Ganado en pie,4057.000,0.000,3.40,13810.030,0
+1990,32,Zacatecas,4,Bovino,1,Carne,35329.000,0.000,7.28,257089.130,0
+1990,32,Zacatecas,4,Bovino,3,Ganado en pie,65110.000,0.000,4.16,270597.160,0
+1990,32,Zacatecas,4,Bovino,6,Leche,101843.000,0.000,1.16,118545.250,0
+1990,32,Zacatecas,6,Caprino,1,Carne,1699.000,0.000,9.61,16318.900,0
+1990,32,Zacatecas,6,Caprino,3,Ganado en pie,2850.000,0.000,4.00,11391.450,0
+1990,32,Zacatecas,6,Caprino,6,Leche,3889.000,0.000,1.05,4099.010,0
+1990,32,Zacatecas,12,Ovino,1,Carne,1224.000,0.000,10.28,12577.820,0
+1990,32,Zacatecas,12,Ovino,3,Ganado en pie,2665.000,0.000,3.78,10060.380,0
+1990,32,Zacatecas,12,Ovino,5,Lana,365.000,0.000,6.03,2200.950,0
+1990,32,Zacatecas,14,Porcino,1,Carne,9024.000,0.000,6.39,57672.380,0
+1990,32,Zacatecas,14,Porcino,3,Ganado en pie,13365.000,0.000,3.22,43008.570,0
