@@ -1,0 +1,202 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage[left = 2cm, right = 2cm, bottom = 2cm]{geometry}
+\usepackage{enumerate}
+%\title{Programación científica \\ Trabajo final.}
+%\author{Alanis Fernandez, Eder Ismael \\ Del Toro Peña, Arnoldo}
+%\date{\today}
+
+\begin{document}
+\begin{titlepage}
+		\begin{figure}
+		\begin{minipage}[c]{0.15 \linewidth}
+			\includegraphics[scale = 0.3]{fime.jpg}
+		\end{minipage} \hspace{0.5 cm}
+		\begin{minipage}[t]{0.6 \linewidth}
+		    {\bfseries \centering \Large Universidad Autónoma de Nuevo León \par}
+		{\centering \bfseries \large Facultad De Ingeniería  Mecánica y Eléctrica \par}
+		\end{minipage} \hspace{0.5 cm}
+		\begin{minipage}[c]{0.15 \linewidth}
+			\includegraphics[scale= 0.3]{uanl.png}
+		\end{minipage}
+		\end{figure}
+		
+		\centering
+		
+		\rule {\linewidth}{0.75mm} \\
+		\vspace{3cm}
+		{\scshape\Huge Programación Científica \par}
+		\vspace{3cm}
+		{\itshape\Large Trabajo Final \par}
+		\vfill
+		{\Large Autores: \par}
+		{\Large Alanís Fernández, Eder Ismael \\ Del Toro Peña, Arnoldo  \par}
+		\today
+	\end{titlepage}
+
+\newpage
+
+\section*{\Huge Introducción}
+{ \large Como lo mencionaba el psicólogo estadounidense Abraham Maslow, uno de los pilares de nuestras necesidades más básicas es el alimento. Por tal motivo una de las prioridades de un gobierno prospero o que tiene como objetivo seguir en el poder es tener la capacidad de satisfacer las necesidades de sus ciudadanos entre las que van incluidas las alimentarias y los productos derivados de los animales como por ejemplo pieles, cintos de piel, lana de oveja, etc. es decir, la producción pecuaria. \\
+El gobierno de México a tenor de su transparencia con los ciudadanos a puesto en disposición del público en general los datos históricos concretamente relacionados con la producción pecuaria en este país para los años 1980 hasta 2020. \\
+El propósito de este trabajo consiste en hacer diferentes análisis estadísticos empleando varias herramientas tecnológicas entre las que mencionamos a Orange y OverLeaf y como datos usaremos las bases de datos de producción pecuaria como mencionamos anteriormente, cabe señalar que estas bases de datos vienen en 2 apartados, 1980 a 2005 y de 2006 a 2020.
+Cabe aclarar que el uso de Orange en si es para el análisis y transformación de los datos, el Overleaf será nuestro editor de textos y el github será para poder hacer diversos cambios contando con la seguridad de poder regresarnos si cometemos uno o varios errores. \\
+Una vez mencionada la introducción sobre la procedencia de los datos y de lo que se espera de este trabajo, daremos una segunda introducción desde el punto de vista matemático, concretamente desde una óptica de modelos matemáticos. \\
+Podríamos decir que estos surgen como un intento de poder describir algo que sucede en el mundo real usando términos o mejor dicho lenguaje matemático, evidentemente dado que las matemáticas son abstractas, este modelo es una abstracción de lo que sucede en la realidad expresado de una manera clara y concreta.\\
+Una de sus características más importantes es que debe de ser lo suficientemente general para poder describir un objeto, fenómeno, evento o cualquiera otra cosa de la cual se tenga la intención de modelar. \\  
+Naturalmente dado que no se está considerando todas las características de lo que se trata de describir esta es la parte de su desventaja, podemos decir que son modelos de analogía incompleta, es decir reflejan solamente alguna o algunas de las propiedades (cabe señalar que las más importantes). \\
+Formalmente un modelo matemático se establece un conjunto de relaciones (de igualdad y/o de desigualdad) definidas en un conjunto de variables que reflejan la esencia de los fenómenos en el objeto de estudio.
+
+
+}
+
+\newpage
+
+\section*{\Huge Objetivo}
+\vspace{1 cm}
+\begin{enumerate}
+    \item Ordenar las entidades federativas según el crecimiento promedio para cada año durante el periodo que se estudia para la especie “Bovina”.
+    \item Ordenar las entidades federativas según el valor promedio de su producción pecuaria para cada año el periodo que se estudia para la especie “Bovina”.
+    \item Grafique la relación entre los valores para el crecimiento promedio y el valor promedio establecidos en las tareas anteriores para cada una las entidades: Veracruz, Sonora, Tamaulipas, Sinaloa, Oaxaca. ¿Qué observa?
+    \item Determine coeficientes de correlación de Spearman para cada entidad federativa seleccionada en la actividad anterior. ¿Qué puede decir?
+    \item Estime el crecimiento de la producción bovina de las entidades federativas Veracruz y Tamaulipas para el año 2020 (empleando los datos hasta 2019). ¿Cuan precisa es la estimación al comparar con los datos reales de 2020?
+\end{enumerate}
+\newpage
+
+\section*{\Huge Hipótesis}
+No existe una correlación entre ninguno de los valores de la producción agrícola.
+
+\newpage
+
+\section*{\Huge Evaluación de Riesgos}
+Estimar cuanto vamos a producir de manera errónea puede tener graves consecuencias tanto si estimamos de más, como de menos.\\
+Si nuestras estimaciones son bajas, y la producción del próximo año está basado en cuanto vamos a necesitar, dado que por error produciremos menos, y la demanda del producto es muy superior por tanto habrá incremento de los precios, escacez de productos y descontento por parte de la población hacia el gobierno y los productores locales y extranjeros. \\
+En dado caso de que produzcamos más de lo que se vaya a necesitar, es decir hay más oferta que demanda, cada productor al tratar de vender sus productos por sobre la competencia tendrá que bajar sus precios para ser más atractivo es decir como diferenciador de la competencia, esta práctica al ser replicada por los demás traerá pérdidas significativas para los productores.\\
+Nótese que esto tiene mayor peso (este tipo de prácticas) en productos perecederos porque tiene un tiempo muy limitado en el que pueden ser comercializados factores externos como la refrigeración y/o congelación aumentan su costo de producción y dado que se está manejando un precio bajo para venderse, no ayuda en nada tener costos más altos en los productos. 
+
+
+
+
+\newpage
+
+\section*{Método}
+Como ya se mencionó antes, utilizaremos el software {\bfseries Orange} (en su versión gratuita) para estimar el año 2020 (datos ya existentes), además compararemos algunos estados, tanto específicamente en años como en precios.\\ \\
+Antes de continuar, en la introducción hablamos de manera general de los modelos matemáticos, ahora procederemos a mostrar un diagrama de flujo y posteriormente nos concentraremos en la modelación lineal que es lo que nos ocupa. \\
+\subsection*{Diagrama de flujo}
+
+\begin{figure}[htb!]
+    \centering
+    \includegraphics[width = 10 cm]{modelo.png}
+    \caption{Diagrama de flujo.}
+    \label{diagrama}
+\end{figure}
+
+Evidentemente iniciamos teniendo un problema del mundo real, el cual identificamos sus variables de decisión, que es lo que se quiere mejorar, evitar, aumentar o cualquiera otra forma que se le quiera llamar para referirnos a la función o funciones objetivos, aunado al hecho de definir sus restricciones y la naturaleza de sus variables estamos haciendo la formulación necesaria para tener nuestro modelo matemático.  \newline
+Al tener esto podemos resolverlo, ya sea por métodos exactos, híbridos, o con algún software, para continuar  extraemos los datos que en si con conclusiones matemáticas porque nos indican cuales son los mejores valores que mejoran lo que yo espero optimizar. \\
+Ahora estos datos deben de ser interpretados o hasta traducidos se podría decir porque si bien un matemático o alguien con formación en ciencias exactas entenderá los valores de las variables de decisión y a que se refieren, el público en general no entenderá los valores a menos que le des un contexto o una interpretación de dichos valores. \\
+Para terminar esto se pone a prueba, ya sea que el modelo nos arroje una predicción sobre que ocurrirá en el siguiente ciclo y midamos que tanto nos aproximamos o que se mejore sustancialmente la producción y esto es validado al recibir los nuevos reportes, ya si se ocupan ajustes el proceso se repite. \\
+\subsection*{Elementos clave en términos matemáticos} 
+1.-Variables de decisión. \\
+2.-Determinar que se maximizara o minimizara. \\
+3.-Sujeto a n ecuaciones y/o desigualdades.\\
+4.-Naturaleza de las variables. \\
+
+\subsection*{Elementos clave en lenguaje coloquial}
+1.-¿Qué es lo que decidiré? \\
+2.-¿Cuál es mi fin?, ¿qué quiero mejorar? \\
+3.-¿Cuáles son mis limitaciones? \\
+4.-Los valores qué quiero saber son ¿enteros?, ¿fraccionarios? ¿Si  y no / 0 o 1? 
+\subsection*{Modelación lineal}
+Para introducir el concepto de la programación lineal visualicemos el siguiente ejemplo: \\
+Supongamos que tenemos una pastelería y sabemos que todos los pasteles que hagamos van a ser vendidos, podemos decidir cuantos pasteles haremos de cada tipo y cualquier propuesta es válida, pero si se queremos obtener la mayor ganancia posible no podemos dejar a la ligera que se producirá dado que estamos limitados en recursos.\\
+La modelación lineal o también conocida como programación lineal es un caso particular de la modelación matemática, su palabra clave versa sobre lo "lineal".\\  
+En términos matemáticos tenemos un sistema de ecuaciones y/o desigualdades, a las cuales llamamos restricciones, y tenemos una función objetivo cuyo propósito es ser maximizada o minimizada según sea el caso. \\ 
+El modelo matemático lineal en su forma estándar. \\ \\
+(2)Maximizar  $\sum_{i=1}^{n}x_{i}c_{i} $ (3) \\ \\
+(4) $\sum_{i=1}^{n}a_{ij}x_{j} \leq b_i, \forall i$  \\ \\
+$ x_i \geq 0, \forall i$ (1) \\ \\ 
+Una vez mencionado esto, hicimos una prueba previa de Python dentro de Orange para cerciorarnos de que todo corriera con normalidad, creamos un problema simple de minimizar, lo resolvimos de manera independiente y luego comprobamos que la solución que nos arrojara Orange cuadrada, el ejemplo usado fue el siguiente:\\ Minimizar $-x-2y$, \\
+Sujeto a: \\
+$2x+y \leq 20 $ \\
+$-4x+5y \leq 10 $ \\
+$x-2y \leq 2 $ \\
+$-x+5y = 15 $ \\
+$x,y \geq 0 $ \\
+De antemano sabemos que la función objetivo optima es $- \frac{185}{11} = -16.818181$, y $x = \frac{85}{11} = 7.7272$, $y = \frac{50}{11} = 4.5454$.
+
+\begin{figure}[htb!]
+    \centering
+    \includegraphics[width = 10 cm]{fo.png}
+    \caption{Prueba del método simplex.}
+    \label{diagrama}
+\end{figure}
+Esto solo fue una pequeña prueba para saber que está funcionando correctamente, observemos que nos retorna el valor óptimo y los valores en x,y que dan ese óptimo.
+
+
+\subsection*{Materiales utilizados}
+Los materiales utilizados se mencionarán a continuación:
+\begin{enumerate}
+    \item El complemento para Google Chrome Batch link Downloader.
+    \item Software Libre Calc.
+    \item Orange (Versión Libre).
+    \item Git.
+    \item Overleaf.
+\end{enumerate}
+
+%seccion de pasos
+\input{pasos}
+
+\newpage
+\subsection*{Diagrama}
+El diagrama se modificó demasiadas veces, pero finalmente llegamos a esto:
+\begin{figure}[htb!]
+    \centering
+    \includegraphics[width = 17 cm]{imagenes/diagrama.png}
+    \caption{Diagrama final.}
+    \label{diagrama}
+\end{figure}
+
+ Llegamos a este diagrama después de varios intentos, optamos por crear varias ramificaciones ya que se facilitaba visualizar las gráficas sin necesidad de mover los filtros o los ejes.  \\\\ \\ \\  
+ Como ya se mencionó, hicimos unas pruebas en python para cerciorarnos de que funcione de manera correcta el método simplex, ya se mostró una prueba corriendo y su pequeño diagrama.
+\subsection*{Diagrama para método simplex}
+ \begin{figure}[htb!]
+    \centering
+    \includegraphics[width = 11 cm]{python.png}
+    \caption{Diagrama para uso de python.}
+    \label{diagrama}
+\end{figure}
+Este fue el diagrama para la segunda parte del proyecto final.
+\begin{figure}[htb!]
+    \centering
+    \includegraphics[width = 16 cm]{imagenes/final.jpeg}
+    \caption{Diagrama para uso de python.}
+    \label{diagrama}
+\end{figure}
+
+ 
+\newpage 
+
+
+\input{resultados}
+
+\newpage
+
+\section*{Discusión}
+
+La discusión sería: \\ ¿Qué podemos hacer para decidir si nuestra predicción es realmente eficaz? \\
+Se nos ocurrió que tal vez en un futuro, podemos hacer un análisis entre los valores reales y los valores de la predicción, que por falta de tiempo no pudimos realizar.
+¿Realmente es suficiente el análisis de correlación para determinar una estrecha dependencia de las variables? \\
+Siguiendo este análisis es casi a simple vista la relación que existe e inclusive podemos decir que es una relación que se esperaba.
+
+
+
+\newpage
+\input{conclusion}
+
+
+
+
+
+\end{document}
